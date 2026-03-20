@@ -1,6 +1,4 @@
-Absolutely — here is a **clean, polished, submission-ready `README.md`** you can copy-paste directly. It stays aligned with your workshop theme, your whiteboard points, and the practical execution flow. ✨
 
-````markdown
 # Multi-Layer Perceptrons Workshop
 
 ## Overview
